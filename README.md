@@ -1,6 +1,6 @@
 # Author
 
-Manjeet Kumar Yadav
+# Manjeet Kumar Yadav
 Computer Science Student | Data science | Machine learning | Python
 
 
